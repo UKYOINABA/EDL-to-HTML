@@ -8,7 +8,7 @@ EDLとmp4の動画データからカットシートを自動で生成するプ�
 
 *- Python3.8.3*
 
-## Usege
+## 実行環境構築
 
 **Python3**がインストールがなされていない場合、以下のコマンドを実行してください
 
@@ -40,4 +40,6 @@ pip install pandas
 ```
 pip install cv2
 ```
-
+# Usage
+ダウンロードしたEDLtoHTML.zipを解凍。
+terminalか
