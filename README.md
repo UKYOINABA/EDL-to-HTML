@@ -13,6 +13,7 @@ Python3の実行環境が必要です。必要に応じて適宜インストー�
 
 * EDLはPremiere Pro CC 2021から出力されたEDLでしか動作確認してません:fearful:
 
+
 ## 実行環境構築
 
 **Python3**のインストールがなされていない場合、以下のコマンドを実行してください
@@ -30,6 +31,7 @@ brew install python
 ```
 python3 -V
 ```
+
 ## 追加のライブラリをpipでインストールする  
 以下のコードを実行していってください。  
 
@@ -45,6 +47,7 @@ pip install pandas
 ```
 pip install cv2
 ```
+
 # Usage:thumbsup:
 ダウンロードしたEDLtoHTML.zipを解凍。
 `terminal.app`を開き、解凍した`EDLtoHTML.pyのパス`を入力
