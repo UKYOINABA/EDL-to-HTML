@@ -8,6 +8,7 @@ Python3の実行環境が必要です。必要に応じて適宜インストー�
 *- MacOS 11.5(BigSur)*
 
 *- Python3.8.3 * 
+
 *- EDLはPremiere Pro CC 2021から出力されたEDLでしか動作確認してません:fearful:*
 
 ## 実行環境構築
